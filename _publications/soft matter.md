@@ -6,7 +6,7 @@ category: manuscripts
 excerpt: ''
 date: 2025-03-07
 venue: 'Soft Matter'
-authors: 'Boyu Wang, Fei Xiao, Zhuoheng Wei, Mengwen Yan, Jian Zhu*, Mingfeng Wang*'
+citation: 'Boyu Wang, Fei Xiao, Zhuoheng Wei, Mengwen Yan, Jian Zhu*, Mingfeng Wang*'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
