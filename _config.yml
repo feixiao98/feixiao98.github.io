@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Fei Xiao"
+title                    : "Fei Xiao1"
 title_separator          : "-"
 name                     : &name "Fei Xiao" # Update this with your name, this is used in the title and other places across the site
 description              : &description "Research in silicone 3D printing and tactile sensing"   # Update this with a general description of your site, this is the default if not overridden by a page
