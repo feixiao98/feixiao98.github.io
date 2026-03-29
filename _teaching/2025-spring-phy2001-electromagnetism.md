@@ -9,4 +9,4 @@ period: "2025.01 - 2025.06"
 location: ""
 ---
 
-Teaching Assistant for `PHY2001 Electromagnetism` from January 2025 to June 2025.
+<!-- Teaching Assistant for `PHY2001 Electromagnetism` from January 2025 to June 2025. -->

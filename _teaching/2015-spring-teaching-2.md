@@ -9,4 +9,4 @@ period: "2023.01 - 2023.06"
 location: ""
 ---
 
-Teaching Assistant for `MAT1002-T06 Calculus II` from January 2023 to June 2023.
+<!-- Teaching Assistant for `MAT1002-T06 Calculus II` from January 2023 to June 2023. -->

@@ -9,4 +9,4 @@ period: "2025.01 - 2025.06"
 location: ""
 ---
 
-Teaching Assistant for `AIR 6211-L01 / AIR 5211-L01 Soft Robotics` from January 2025 to June 2025.
+<!-- Teaching Assistant for `AIR 6211-L01 / AIR 5211-L01 Soft Robotics` from January 2025 to June 2025. -->
