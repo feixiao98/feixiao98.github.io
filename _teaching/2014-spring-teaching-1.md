@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "MAT1002-T21 / T22 Calculus II"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Teaching Assistant"
+permalink: /teaching/mat1002-t21-t22-calculus-ii
+venue: "Prof. Mario Huang"
+date: 2021-01-01
+period: "2021.01 - 2021.06"
+location: ""
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching Assistant for `MAT1002-T21 / T22 Calculus II` from January 2021 to June 2021.
