@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+Biography
+======
+
 I am a PhD graduate from The Chinese University of Hong Kong, Shenzhen, supervised by [Prof. Jian Zhu](https://scholar.google.com/citations?user=U0lt7MIAAAAJ&hl=en). I received my BS degree from Harbin Institute of Technology, Shenzhen. My research interests lie in 3D printing and tactile sensing.
 
 My research focuses on:
