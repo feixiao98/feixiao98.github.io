@@ -17,6 +17,17 @@ My research focuses on:
 
 I am particularly interested in bridging digital manufacturing and robotics, with applications in soft robots, medical devices, and intelligent systems.
 
+Research Highlights
+======
+
+<div style="margin: 1.5rem 0; padding: 1rem; border: 1px solid #d9d9d9; border-radius: 8px;">
+  <div style="width: 100%; height: 260px; display: flex; align-items: center; justify-content: center; background: #f5f5f5; color: #666; border-radius: 6px; margin-bottom: 1rem;">
+    Add your research highlight image here
+  </div>
+  <p><strong>Silicone 3D Printing for Soft Robotic Systems.</strong> My research develops silicone-based additive manufacturing strategies for soft robots, sensors, and functional devices, with a focus on multimaterial printing, embedded fabrication, and system integration.</p>
+  <p><a href="/publications/">View related publications</a></p>
+</div>
+
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
