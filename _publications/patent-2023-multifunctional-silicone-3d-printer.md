@@ -4,7 +4,7 @@ collection: publications
 category: patents
 date: 2023-01-01
 venue: "CN Patent No. 202222716767.7"
-citation: "J. Zhu, Fei Xiao, Z. Wei"
+citation: "Jian Zhu, Fei Xiao, Zhuoheng Wei"
 ---
 
 Patent filed in China in 2023.
