@@ -11,17 +11,17 @@ redirect_from:
 
 Education
 ======
-* **The Chinese University of Hong Kong, Shenzhen**, Shenzhen, China
+* **The Chinese University of Hong Kong, Shenzhen**
   * School of Science and Engineering
   * PhD in Computer and Information Engineering | 2020.09 - 2026.03
   * Thesis: *3D Printing Silicone-based Soft Robotic Systems*
   * Advisor: Prof. Jian Zhu
-* **Harbin Institute of Technology, Shenzhen**, Shenzhen, China
+* **Harbin Institute of Technology, Shenzhen**
   * School of Mechanical Engineering and Automation
   * BS in Mechanical Engineering | 2016.09 - 2020.06
   * Thesis: *Design and Modeling of Soft Octopus Robot*
   * Advisors: Prof. Wenfu Xu and Prof. Han Yuan
-* **National Sun Yat-sen University**, Kaohsiung, China
+* **National Sun Yat-sen University**
   * Exchange Student | 2018.09 - 2019.01
 
 Publications
