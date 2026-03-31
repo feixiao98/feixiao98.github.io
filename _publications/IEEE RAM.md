@@ -3,7 +3,7 @@ title: " Expressing Emotion through Heartbeat: A Soft Robotic Heart Integrated w
 collection: publications
 category: manuscripts
 # permalink: /publication/2009-10-01-paper-title-number-1
-#excerpt: ''
+excerpt: ''
 date: 2026-06-07
 venue: 'IEEE Robotics & Automation Magazine'
 citation: 'Fei Xiao, Ziyin Liu, Jinlong Xu, Zhuoheng Wei, Zhiyuan Sun, Xuanyang Xu, Jisen Li, Suxuan Jiang, Ning Ding, Shaomin Shen, Jian Zhu*'
