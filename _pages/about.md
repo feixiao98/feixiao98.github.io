@@ -33,12 +33,12 @@ Research Highlights
       </div>
       <p style="margin: 0;">Embedded 3D printing of a pneumatic actuator.</p>
     </div>
-    <div style="border: 1px solid #e3e3e3; border-radius: 10px; padding: 0.9rem; background: #fbfbfb;">
+    <!-- <div style="border: 1px solid #e3e3e3; border-radius: 10px; padding: 0.9rem; background: #fbfbfb;">
       <div style="display: flex; align-items: center; justify-content: center; min-height: 180px; background: #ffffff; border: 1px solid #efefef; border-radius: 8px; padding: 0.65rem; margin-bottom: 0.75rem;">
         <img src="/images/research－highlight/shield_sensor.png" alt="Soft sensors" style="max-width: 100%; max-height: 200px; width: auto; height: auto; display: block; border-radius: 4px;">
       </div>
       <p style="margin: 0;">Soft Faraday-cage force sensor.</p>
-    </div>
+    </div> -->
     <div style="border: 1px solid #e3e3e3; border-radius: 10px; padding: 0.9rem; background: #fbfbfb;">
       <div style="display: flex; align-items: center; justify-content: center; min-height: 180px; background: #ffffff; border: 1px solid #efefef; border-radius: 8px; padding: 0.65rem; margin-bottom: 0.75rem;">
         <img src="/images/research－highlight/hand.png" alt="Soft robotic systems" style="max-width: 100%; max-height: 200px; width: auto; height: auto; display: block; border-radius: 4px;">
