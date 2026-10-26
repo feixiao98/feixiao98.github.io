@@ -1,3 +1,8 @@
 <!-- start custom analytics snippet -->
-
+{% assign goatcounter_code = site.analytics.goatcounter.code | default: "" | strip %}
+{% if jekyll.environment == "production" and goatcounter_code != "" %}
+<script data-goatcounter="https://{{ goatcounter_code | escape }}.goatcounter.com/count"
+        data-goatcounter-settings='{"no_events": true}'
+        async src="https://gc.zgo.at/count.js"></script>
+{% endif %}
 <!-- end custom analytics snippet -->
