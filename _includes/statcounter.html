@@ -1,0 +1,11 @@
+{% assign statcounter_project = site.analytics.statcounter.project_id | default: "" | strip %}
+{% assign statcounter_security = site.analytics.statcounter.security_code | default: "" | strip %}
+{% if jekyll.environment == "production" and statcounter_project != "" and statcounter_security != "" %}
+<script>
+  var sc_project = {{ statcounter_project | jsonify }};
+  var sc_invisible = 1;
+  var sc_security = {{ statcounter_security | jsonify }};
+  var sc_https = 1;
+</script>
+<script async src="https://secure.statcounter.com/counter/counter.js"></script>
+{% endif %}

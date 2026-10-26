@@ -161,6 +161,11 @@ analytics:
   google:
     # GA4 web stream measurement ID (G-...). Leave empty to disable tracking.
     tracking_id          : "G-35ENJC7NFB"
+  statcounter:
+    # StatCounter project ID and public tracking security code.
+    # Both must be set before private detailed visitor tracking starts.
+    project_id           : "13362715"
+    security_code        : "dc66d74b"
 
 
 # Reading Files
