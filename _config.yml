@@ -160,7 +160,7 @@ analytics:
   provider               : "google-analytics-4"
   google:
     # GA4 web stream measurement ID (G-...). Leave empty to disable tracking.
-    tracking_id          : ""
+    tracking_id          : "G-35ENJC7NFB"
 
 
 # Reading Files
