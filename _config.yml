@@ -157,13 +157,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : "custom" # false, "google", "google-universal", "google-analytics-4", "custom"
-  goatcounter:
-    # Your registered GoatCounter site code (the part before .goatcounter.com).
-    # Leave empty to disable tracking. This public identifier is not an API key.
-    code                 : ""
+  provider               : "google-analytics-4"
   google:
-    tracking_id          :
+    # GA4 web stream measurement ID (G-...). Leave empty to disable tracking.
+    tracking_id          : ""
 
 
 # Reading Files
