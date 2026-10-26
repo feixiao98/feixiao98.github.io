@@ -164,8 +164,8 @@ analytics:
   statcounter:
     # StatCounter project ID and public tracking security code.
     # Both must be set before private detailed visitor tracking starts.
-    project_id           : ""
-    security_code        : ""
+    project_id           : "13362715"
+    security_code        : "dc66d74b"
 
 
 # Reading Files
